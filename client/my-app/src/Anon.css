@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.announcement-container {
+  display: block;
+  margin-left: 250px;
+  align-items: flex-start;
+  margin-bottom: 50px;
+  width: 1100px;
+  background-color: #fff;
+  padding: 20px;
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.2);
+  border-radius: 15px;
+}
+.wrapperAnon {
+  display: flex;
+  margin-top: 15px;
+}
+.titleAn {
+  margin-bottom: 10px;
+  background: -webkit-linear-gradient(#6da6d8, #1666ac);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.profile-pic {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-right: 15px;
+  object-fit: cover;
+}
+
+.announcement-content {
+  flex-grow: 1;
+}
+
+h3 {
+  margin: 0;
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+.announcement-date {
+  color: #888;
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+
+.pAnon {
+  margin: 10px 0px;
+}

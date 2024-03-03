@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.whats-due-container {
+  /* margin-top: 0px; */
+  width: 200px;
+  background-color: #fff;
+  padding: 20px;
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.2);
+  margin-right: 15px;
+  margin-left: 20px;
+  border-radius: 15px;
+}
+.qtitle {
+  background: -webkit-linear-gradient(#6da6d8, #1666ac);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.qt {
+  font-size: 15px;
+  margin-bottom: 5px;
+  margin-top: 15px;
+  color: black;
+}
+
+.due-info {
+  color: #888;
+  font-size: 14px;
+}
+
+p {
+  margin: 0;
+  margin-bottom: 5px;
+}

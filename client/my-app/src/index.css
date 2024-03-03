@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(219, 228, 235);
+}
+h2 {
+  text-align: center;
+  padding-bottom: 5px;
+  font-size: 30px;
+  color: aliceblue;
+}
+
+.spantag {
+  display: flex;
+  /* justify-content: space-between; */
+}
